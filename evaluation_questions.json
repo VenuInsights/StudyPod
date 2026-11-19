@@ -1,0 +1,63 @@
+
+[
+  {
+    "question": "What is prompting in the context of LLMs?",
+    "expected_pages": [2]
+  },
+  {
+    "question": "What is in-context learning, and how does it help LLMs?",
+    "expected_pages": [2]
+  },
+  {
+    "question": "Why is prompt engineering important?",
+    "expected_pages": [4]
+  },
+  {
+    "question": "What are the different categories of prompts?",
+    "expected_pages": [8]
+  },
+  {
+    "question": "Explain zero-shot, one-shot, and few-shot prompting.",
+    "expected_pages": [9, 25, 26, 27]
+  },
+  {
+    "question": "What are instruction prompts and reverse prompts?",
+    "expected_pages": [10, 11]
+  },
+  {
+    "question": "What are prompt templates, and why are they useful?",
+    "expected_pages": [12]
+  },
+  {
+    "question": "What is prompt optimization, and what techniques are used to improve prompts?",
+    "expected_pages": [14, 15]
+  },
+  {
+    "question": "Differentiate between open prompts and closed prompts.",
+    "expected_pages": [16, 18, 19, 20]
+  },
+  {
+    "question": "What is the difference between hard prompting and soft prompting?",
+    "expected_pages": [21, 22, 23, 24]
+  },
+  {
+    "question": "Explain Chain of Thought prompting and its advantages.",
+    "expected_pages": [28, 29]
+  },
+  {
+    "question": "What is Tree of Thought prompting, and how does it work?",
+    "expected_pages": [30, 31, 32]
+  },
+  {
+    "question": "Explain Graph of Thought prompting and its architecture.",
+    "expected_pages": [33, 34, 35, 36]
+  },
+  {
+    "question": "What is reasoning and action in LLMs?",
+    "expected_pages": [37, 38]
+  },
+  {
+    "question": "Explain ReAct prompting and its working process.",
+    "expected_pages": [39, 40, 41]
+  }
+]
