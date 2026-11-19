@@ -95,8 +95,5 @@ def login_user(email, password):
             "email": user["email"]
         }
 
-    except Exception as exc:
-        print(
-            f"StudyPod login error: {type(exc).__name__}: {exc}"
-        )
+    except Exception:
         return False, "Login failed. Please try again.", None
