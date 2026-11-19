@@ -21,6 +21,18 @@ Users can upload documents, ask questions, generate summaries, and maintain mult
 - **Multi-User Support:** Maintain separate conversations and documents for different users.
 - **Persistent PDF Storage:** Store uploaded PDFs using MongoDB GridFS and restore them across sessions.
 
+## Application Screenshots
+
+### Dashboard
+![StudyPod Dashboard](assets/screenshots/dashboard.png)
+
+### Question Answering
+![Question Answering](assets/screenshots/question-answering.png)
+
+### Document Summary
+![Document Summary](assets/screenshots/summary.png)
+
+
 ## Technology Stack
 
 | Category | Technologies |
